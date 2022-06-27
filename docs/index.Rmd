@@ -16,6 +16,7 @@ Organization:
 
 - [Code for Mitaka / Musashino](https://code4mm.org/)
 
-Data visualization site:
+Data visualization:
 
+- [Tableau Public](https://public.tableau.com/app/profile/hyakutake)
 - [東京都 区市町村別詳細 新型コロナウイルス陽性者数](https://nobukuni-hyakutake.github.io/covid19tokyo/)
