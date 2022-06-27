@@ -1,0 +1,21 @@
+---
+title: "Nobukuni Hyakutake's Homepage"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- [Github repository](https://github.com/Nobukuni-Hyakutake)
+- [Qiita](https://qiita.com/Nobukuni-Hyakutake)
+- [Stack Overflow](https://stackoverflow.com/users/19170239/nobukuni-hyakutake)
+- [Facebook](https://www.facebook.com/nobukuni.hyakutake)
+
+Organization:
+
+- [Code for Mitaka / Musashino](https://code4mm.org/)
+
+Data visualization site:
+
+- [東京都 区市町村別詳細 新型コロナウイルス陽性者数](https://nobukuni-hyakutake.github.io/covid19tokyo/)
