@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [Github repository](https://github.com/Nobukuni-Hyakutake)
 - [Qiita](https://qiita.com/Nobukuni-Hyakutake)
+- [統計学の勉強ノート](https://nobukuni-hyakutake.github.io/statistics/index.html)
 - [Stack Overflow](https://stackoverflow.com/users/19170239/nobukuni-hyakutake)
 - [Facebook](https://www.facebook.com/nobukuni.hyakutake)
 
