@@ -1,7 +1,8 @@
 ---
-title: "See you again"
 output: 
   html_document:
     includes:
        in_header: GA_Script.html
 ---
+
+See you again!
